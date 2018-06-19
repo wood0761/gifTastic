@@ -1,0 +1,21 @@
+#title{
+    padding-top: 15px;
+}
+#inputForm{
+    float: right;
+    padding-top: 30px;
+}
+div#gifs{
+    float:center;
+}
+#textBox{
+    width: 230px;
+}
+#dynamicButtons{
+    padding-bottom: 20px;
+}
+button.topic{
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
